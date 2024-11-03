@@ -1,0 +1,116 @@
+body {
+    font-family: "Figtree", sans-serif;
+    margin: 0; /* Remove body margin */
+    padding: 20px; /* Keep some padding for body */
+    background-color: hsl(47, 88%, 63%);
+}
+
+/* Card container styling */
+.card {
+    display: grid;
+    align-content: center;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 0;
+    background-color: hsl(0, 0%, 100%);
+    width: 90%; /* Use a percentage for flexibility */
+    max-width: 400px; /* Maintain a max width */
+    margin: 20px auto; /* Center the card */
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+/* Main image styling */
+.main-image {
+    width: 100%; /* Keep it responsive */
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 1em;
+    font-weight: 800;
+    background-color: hsl(47, 88%, 63%);
+    width: fit-content;
+    padding: 7px 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: 800;
+}
+
+p {
+    font-size: 16px; /* Keep paragraph size as per style guide */
+}
+
+.date {
+    font-weight: 500;
+    color: hsl(0, 0%, 7%);
+}
+
+.description {
+    font-weight: 500;
+    color: hsl(0, 0%, 42%);
+}
+
+/* Author info section styling */
+.author-info {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    font-weight: 800;
+    text-align: left;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 400px) {
+    .card {
+        padding: 10px; /* Adjust padding */
+        width: 95%; /* Adjust width for smaller screens */
+        margin: 10px auto; /* Reduce margin */
+    }
+
+    h1 {
+        font-size: 0.875em; /* Slightly smaller heading */
+    }
+
+    h2 {
+        font-size: 1em; /* Slightly smaller subheading */
+    }
+
+    p {
+        font-size: 14px; /* Slightly smaller paragraph text */
+    }
+
+    .author-info {
+        margin-top: 20px; /* Reduced margin-top */
+    }
+
+    .avatar {
+        width: 40px; /* Slightly smaller avatar */
+        height: 40px; /* Slightly smaller avatar */
+    }
+}
+
+/* General responsive image sizing */
+img {
+    max-width: 100%; /* Ensure images are responsive */
+    height: auto; /* Maintain aspect ratio */
+}
