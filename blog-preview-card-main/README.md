@@ -5,9 +5,10 @@
 This is my solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Welcome! 👋
-## Table of Contents
 
 Thanks for checking out this front-end coding challenge.
+
+## Table of Contents
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -38,8 +39,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ### Links
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card Solution](https://github.com/michealmcdon/blog-preview-card)
+- Live Site URL: [Live Site on Vercel](https://blog-preview-card-mrbm.vercel.app/)
 
 ## My Process
 
@@ -64,29 +65,7 @@ Feel free to use any workflow that you feel comfortable with. Below are some sug
 - [MDN Web Docs: CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - A comprehensive guide that clarified many of the grid properties I used in this project.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@michealmcdon](https://www.frontendmentor.io/profile/michealmcdon)
 
 ## Acknowledgments
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-## Create a custom `README.md`
-We strongly recommend overwriting this `README.md` with a custom one. 
-
-## Submitting your solution
-Submit your solution on the platform for the rest of the community to see. 
-
-## Sharing your solution
-1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. 
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project.
-
-We provide templates to help you share your solution once you've submitted it on the platform. 
-
-## Got feedback for us?
-We love receiving feedback! 
-
-**Have fun building!** 🚀
 A special thanks to the Frontend Mentor community for providing this challenge, which has helped me improve my front-end development skills. I appreciate the feedback and inspiration from fellow developers.
