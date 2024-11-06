@@ -1,9 +1,13 @@
-# Frontend Mentor - Blog Preview Card Solution
+# Frontend Mentor - Blog Preview Card
+
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
 This is my solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+## Welcome! 👋
 ## Table of Contents
 
+Thanks for checking out this front-end coding challenge.
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
@@ -18,25 +22,30 @@ This is my solution to the [Blog Preview Card challenge on Frontend Mentor](http
 
 ## Overview
 
+**To do this challenge, you need a basic understanding of HTML and CSS.**
+
 ### The Challenge
 
-Users should be able to:
-
+Your challenge is to build out this blog preview card and get it looking as close to the design as possible. Users should be able to:
 - See hover and focus states for all interactive elements on the page.
+
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 ### Screenshot
 
-![Blog Preview Card](./screenshot.jpg)
+![Blog Preview Card](./screenshot.png)
 
 ### Links
 
+Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
 
-### Built With
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
 
+### Built With
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -44,24 +53,40 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I Learned
-
 Throughout this project, I learned how to effectively use CSS Grid and Flexbox to create responsive layouts. I found it useful to adjust card elements to ensure they scale well on different devices.
 
 ### Continued Development
-
 In future projects, I want to focus on improving my understanding of advanced CSS techniques and JavaScript for dynamic content manipulation. I also plan to explore accessibility best practices more thoroughly.
 
 ### Useful Resources
-
+Feel free to use any workflow that you feel comfortable with. Below are some suggested resources:
 - [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This resource helped me understand how to implement Flexbox layouts effectively.
 - [MDN Web Docs: CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - A comprehensive guide that clarified many of the grid properties I used in this project.
 
 ## Author
-
-- Website - [Micheál McDonagh](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
+- [GitHub Pages](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
 
+## Create a custom `README.md`
+We strongly recommend overwriting this `README.md` with a custom one. 
+
+## Submitting your solution
+Submit your solution on the platform for the rest of the community to see. 
+
+## Sharing your solution
+1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
+2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. 
+3. Share your solution on other social channels like LinkedIn.
+4. Blog about your experience building your project.
+
+We provide templates to help you share your solution once you've submitted it on the platform. 
+
+## Got feedback for us?
+We love receiving feedback! 
+
+**Have fun building!** 🚀
 A special thanks to the Frontend Mentor community for providing this challenge, which has helped me improve my front-end development skills. I appreciate the feedback and inspiration from fellow developers.
