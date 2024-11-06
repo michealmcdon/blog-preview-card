@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog Preview Card
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+![Design preview for the Blog preview card coding challenge](./blog-preview-card-main/preview.jpg)
 
 This is my solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -34,7 +34,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![Blog Preview Card](./screenshot.png)
+![Blog Preview Card](./blog-preview-card-main/screenshot.png)
 
 ### Links
 
