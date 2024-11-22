@@ -40,7 +40,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 - Solution URL: [Blog Preview Card Solution](https://github.com/michealmcdon/blog-preview-card)
-- Live Site URL: [Live Site on Vercel](https://blog-preview-card-mrbm.vercel.app/)
+- Live Site URL: [Live Site on Vercel](https://blog-preview-card-tan-gamma.vercel.app/)
 
 ## My Process
 
